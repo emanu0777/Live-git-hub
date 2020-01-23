@@ -1,0 +1,10 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "emanu0777 <emanuel_s.c@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
